@@ -4,6 +4,8 @@ A mobile IRC client that keeps you connected to the IRC.com network, complete wi
 
 The interface is built around the KiwiIRC web client and re-uses the majority of its source.
 
+Some screenshots: https://imgur.com/a/UkOrdtz
+
 ## Download
 Android: https://play.google.com/apps/testing/com.irc.ircclient
 
